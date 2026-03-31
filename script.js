@@ -85,3 +85,8 @@ function mostrarPopup() {
 }
 
 btn.addEventListener("click", irParaJogo);
+
+window.resetJogos = function () {
+  localStorage.removeItem("jogos");
+  console.log("Resetado! 🔄");
+};

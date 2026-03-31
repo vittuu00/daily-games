@@ -127,3 +127,22 @@ button:disabled {
 .secondary-btn:hover {
   background: rgba(255,255,255,0.05);
 }
+
+.assinatura {
+  position: absolute;
+  bottom: 10px;
+  font-size: 12px;
+  opacity: 0.6;
+  text-align: center;
+  color: #94a3b8;
+  opacity: 0.02;
+}
+
+.assinatura pre {
+  font-family: monospace;
+  line-height: 1.2;
+}
+
+.assinatura:hover {
+  opacity: 0.2;
+}
