@@ -1,11 +1,16 @@
 const sites = [
   { nome: "Conexo", url: "https://conexo.ws" },
   { nome: "Loldle", url: "https://loldle.net" },
-  { nome: "Wordle BR", url: "https://wordle-brasil.vercel.app" },
   { nome: "Contexto", url: "https://contexto.me" },
   { nome: "Termo", url: "https://term.ooo" },
-  { nome: "Framed", url: "https://framed.wtf" },
-  { nome: "Moviedle", url: "https://moviedle.xyz" }
+  { nome: "Letroso", url: "https://letroso.com/pt/" },
+  { nome: "One Piecedle", url: "https://onepiecedle.net/" },
+  { nome: "Pokédle", url: "https://pokedle.net/" },
+  { nome: "Scaredle", url: "https://scaredle.com" },
+  { nome: "Geodle", url: "https://geodle.me" },
+  { nome: "Gamedle", url: "https://www.gamedle.wtf/#" },
+  { nome: "Minecraftle", url: "https://minecraftle.zachmanson.com" },
+  { nome: "Spotle", url: "https://spotle.io" }
 ];
 
 const btn = document.getElementById("btnJogo");
