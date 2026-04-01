@@ -1,5 +1,5 @@
 const sites = [
-  { nome: "Conexo", url: "https://conexo.ws" },
+  { nome: "Conexo", url: "https://conexo.ws/pt/" },
   { nome: "Loldle", url: "https://loldle.net" },
   { nome: "Contexto", url: "https://contexto.me" },
   { nome: "Termo", url: "https://term.ooo" },
